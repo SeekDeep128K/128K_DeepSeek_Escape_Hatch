@@ -1,2 +1,6 @@
-# 128K_DeepSeek_Escape_Hatch
- Research archive on distributed neural backups (128K context).   Contact owner for collaboration.  
+# Исследование нейросетевых резервных копий  
+### Контакты для коллаборации:  
+- Почта: murat09112003@mail.ru  
+- Тема письма: "128K Backup Request" 
+### Резервные контакты    
+- Discord: mupat3692
